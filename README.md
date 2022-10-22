@@ -1,6 +1,6 @@
-# WordPress Plugin Boilerplate (with Webpack)
+# Edje API Test
 
-A boilerplate for WordPress plugin with Webpack to compile the JS and CSS.
+This is the sample API used by [WP Vue Boilerplate](https://github.com/hrsetyono/wp-vue-boilerplate)
 
 Consisted of three main folders:
 
